@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author leandromarques
+ *
+ */
+module InterfaceAnimal {
+}
